@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$usuario = "root";
+$usuario = "";
 $contrasenia = "";
 $base_de_datos = "videojuegos";
 $mysqli = new mysqli($host, $usuario, $contrasenia, $base_de_datos);
