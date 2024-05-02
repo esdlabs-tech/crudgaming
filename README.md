@@ -4,11 +4,11 @@
 
 Este es un proyecto de CRUD (Crear, Leer, Actualizar, Eliminar) desarrollado en PHP y MySQLi para gestionar una colección de videojuegos. El CRUD permite a los usuarios realizar operaciones básicas sobre los datos de los videojuegos, como agregar nuevos videojuegos, ver el listado completo, editar información existente y eliminar registros.
 
-Características principales:
-Registro de Videojuegos: Permite a los usuarios agregar nuevos videojuegos a la base de datos, incluyendo nombre, descripción y cantidad disponible.
-Listado de Videojuegos: Muestra un listado completo de todos los videojuegos registrados en la base de datos, con la capacidad de editar o eliminar cada registro.
-Edición de Videojuegos: Permite a los usuarios editar la información de un videojuego existente, como su nombre, descripción y cantidad disponible.
-Eliminación de Videojuegos: Permite a los usuarios eliminar un videojuego existente de la base de datos.
+<strong>Características principales</strong><br>
+<strong>Registro de Videojuegos:</strong> Permite a los usuarios agregar nuevos videojuegos a la base de datos, incluyendo nombre, descripción y cantidad disponible.<br>
+<strong>Listado de Videojuegos:</strong> Muestra un listado completo de todos los videojuegos registrados en la base de datos, con la capacidad de editar o eliminar cada registro.<br>
+<strong>Edición de Videojuegos:</strong> Permite a los usuarios editar la información de un videojuego existente, como su nombre, descripción y cantidad disponible.<br>
+<strong>Eliminación de Videojuegos:</strong> Permite a los usuarios eliminar un videojuego existente de la base de datos.<br>
 <hr>
 <strong>Configuración</strong>
 
