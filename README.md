@@ -13,7 +13,7 @@ Eliminación de Videojuegos: Permite a los usuarios eliminar un videojuego exist
 <strong>Configuración</strong>
 
 Clona o descarga el repositorio.
-Importa la base de datos nombre_de_la_base_de_datos.sql en tu servidor MySQL.
+Importa la base de datos videojuegos.sql en tu servidor MySQL.
 Modifica el archivo conexion.php con los datos de tu servidor MySQL (nombre de usuario, contraseña, nombre de la base de datos).
 ¡Disfruta gestionando tu colección de videojuegos con CRUD Gaming by ESD Labs!
 <hr>
